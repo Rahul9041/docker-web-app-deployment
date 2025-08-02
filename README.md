@@ -14,7 +14,7 @@ This project demonstrates how to build and run a basic Node.js web application i
 
 ---
 
-## 🛠 How to Run This App
+## How to Run This App
 
 ###  Build Docker Image
 
