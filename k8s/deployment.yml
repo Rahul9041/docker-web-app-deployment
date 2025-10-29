@@ -18,4 +18,4 @@ spec:
       - name: myapp
         image: rahul9041/myapp:latest
         ports:
-        - containerPort: 5000
+        - containerPort: 3000
